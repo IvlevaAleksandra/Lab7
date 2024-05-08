@@ -1,0 +1,252 @@
+.container {
+        display: flex;
+        position: relative;
+        left:15%;
+
+    .left {
+        width: 600px;
+        height: 1000px;
+    }
+    .right {
+        width: 600px;
+        height: 1000px;
+        background-color: #C6DFF5;
+    }
+    .overlay {
+        position: absolute;
+        top:35%;
+        left: 5%;
+        width: 400px;
+        height: max-content;
+        background-color: #C6DFF5;
+        font-family: arial;
+        font-weight: 700;
+        text-align: center;
+        font-size: 20px;
+    }
+    .overlay1 {
+        position: absolute;
+        top:3%;
+        left: 10%;
+        width: 100px;
+        height: 100px;
+    }
+    .learning{
+        font-family: arial;
+        font-weight: 700;
+        text-align: center;
+        font-size: 15px;
+        position: absolute;
+        top:49%;
+        left: 5%;
+    }
+    .learning1 {
+        position: absolute;
+        top:51%;
+        left: 5%;
+        width: 400px;
+        height: max-content;
+        background-color: #C6DFF5;
+        font-family: arial;
+        font-weight: 700;
+        text-align: center;
+        font-size: 20px;
+    }
+    .prof{
+        font-family: arial;
+        font-weight: 700;
+        text-align: center;
+        font-size: 15px;
+        position: absolute;
+        top:66%;
+        left: 5%;
+    }
+    .prof1 {
+        position: absolute;
+        top:68%;
+        left: 5%;
+        width: 400px;
+        height: max-content;
+        background-color: #C6DFF5;
+        font-family: arial;
+        font-weight: 700;
+        text-align: center;
+        font-size: 20px;
+    }
+    .interests {
+        font-family: arial;
+        font-weight: 700;
+        text-align: center;
+        font-size: 15px;
+        position: absolute;
+        top:80%;
+        left: 5%;
+    }
+    .interests1{ 
+        position: absolute;
+        top:82%;
+        left: 5%;
+        width: 400px;
+        height: max-content;
+        background-color: #C6DFF5;
+        font-family: arial;
+        font-weight: 700;
+        text-align: center;
+        font-size: 20px;
+    }
+    .me {
+        font-family: arial;
+        color: white;
+        font-weight: 700;
+        text-align: center;
+        font-size: 15px;
+        position: absolute;
+        top:3%;
+        left: 43%;
+        }
+    .me1 {
+        position: absolute;
+        top:5%;
+        left: 43%;
+        width: 400px;
+        height: max-content;
+        background-color: white;
+        font-family: arial;
+        font-weight: 700;
+        text-align: center;
+        font-size: 20px;
+    }
+    .obr {
+        font-family: arial;
+        color: white;
+        font-weight: 700;
+        text-align: center;
+        font-size: 15px;
+        position: absolute;
+        top:25%;
+        left: 43%;
+        }
+    .obr1 {
+        position: absolute;
+        top:27%;
+        left: 43%;
+        width: 400px;
+        height: max-content;
+        background-color: white;
+        font-family: arial;
+        font-weight: 700;
+        text-align: center;
+        font-size: 20px;
+    }
+    .Nav {
+        font-family: arial;
+        color: white;
+        font-weight: 700;
+        text-align: center;
+        font-size: 15px;
+        position: absolute;
+        top:40%;
+        left: 43%;
+    }
+    .Nav1 {
+        position: absolute;
+        top: 42%;
+        left: 43%;
+        width: 400px;
+        height: 50px;
+        background-color: white;
+        font-family: arial;
+        font-weight: 700;
+        text-align: center;
+        line-height: 50px;
+        font-size: 20px;
+    }
+    .Nav2 {
+        position: absolute;
+        top: 47%;
+        left: 43%;
+        width: 400px;
+        height: 50px;
+        background-color: #C6DFF5;
+        font-family: arial;
+        font-weight: 700;
+        text-align: center;
+        line-height: 50px;
+        font-size: 20px;
+    }
+    .Nav3 {
+        position: absolute;
+        top: 52%;
+        left: 43%;
+        width: 400px;
+        height: 50px;
+        background-color: white;
+        font-family: arial;
+        font-weight: 700;
+        text-align: center;
+        line-height: 50px;
+        font-size: 20px;
+    }
+    .Nav4 {
+        position: absolute;
+        top: 57%;
+        left: 43%;
+        width: 400px;
+        height: 50px;
+        background-color: #C6DFF5;
+        font-family: arial;
+        font-weight: 700;
+        text-align: center;
+        line-height: 50px;
+        font-size: 20px;
+    }
+    .Nav5 {
+        position: absolute;
+        top: 62%;
+        left: 43%;
+        width: 400px;
+        height: 50px;
+        background-color: white;
+        font-family: arial;
+        font-weight: 700;
+        text-align: center;
+        line-height: 50px;
+        font-size: 20px;
+    }
+    .Nav6 {
+        position: absolute;
+        top: 67%;
+        left: 43%;
+        width: 400px;
+        height: 50px;
+        background-color: #C6DFF5;
+        font-family: arial;
+        font-weight: 700;
+        text-align: center;
+        line-height: 50px;
+        font-size: 20px;
+    }
+    .yaz {
+        font-family: arial;
+        color: white;
+        font-weight: 700;
+        text-align: center;
+        font-size: 15px;
+        position: absolute;
+        top:80%;
+        left: 43%;
+    }
+    .yaz1 {
+        position: absolute;
+        top:82%;
+        left: 43%;
+        width: 400px;
+        height: 70px;
+        background-color: white;
+        font-family: arial;
+        font-weight: 700;
+        text-align: center;
+        font-size: 40px;
+        line-height: 70px;
+    }
+}
